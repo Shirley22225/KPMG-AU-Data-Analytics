@@ -1,5 +1,8 @@
 # KPMG-AU-Data-Analytics
 Conducted Data Quality Assessment, Data Insights and Presentation to create a client recommendation.
+
+![Screenshot (463)](https://github.com/Shirley22225/KPMG-AU-Data-Analytics/assets/3306225/53dd24f5-9810-420c-a61d-4957468c2257)
+
 ![Slide1](https://github.com/Shirley22225/KPMG-AU-Data-Analytics-v/assets/3306225/bac6647c-4047-4900-a2eb-26e9e7349184)
 
 ![Slide2](https://github.com/Shirley22225/KPMG-AU-Data-Analytics-v/assets/3306225/712379fa-f261-4e66-adb5-077edd1264b5)
@@ -21,7 +24,5 @@ Conducted Data Quality Assessment, Data Insights and Presentation to create a cl
 ![Slide10](https://github.com/Shirley22225/KPMG-AU-Data-Analytics-v/assets/3306225/3ca509aa-0ec9-4be0-b894-da07ff3eb518)
 
 ![Slide11](https://github.com/Shirley22225/KPMG-AU-Data-Analytics-v/assets/3306225/063162c1-3680-4cc6-ac60-72e1b4345ef0)
-
-![Slide12](https://github.com/Shirley22225/KPMG-AU-Data-Analytics-v/assets/3306225/c8d6d05a-9cfd-45d5-bf2c-1b8f9130a8d1)
 
 
