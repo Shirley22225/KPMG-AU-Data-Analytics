@@ -1,5 +1,6 @@
 # KPMG-AU-Data-Analytics
 Conducted Data Quality Assessment, Data Insights and Presentation to create a client recommendation.
+Below is a summary of my findings
 
 ![Screenshot (463)](https://github.com/Shirley22225/KPMG-AU-Data-Analytics/assets/3306225/53dd24f5-9810-420c-a61d-4957468c2257)
 
